@@ -2,4 +2,4 @@
 *.o
 
 # ignore .md files
-test.md
+test.mdnode_modules/
