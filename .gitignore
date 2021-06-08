@@ -1,5 +1,6 @@
 # Object file
 *.o
 
-# ignore .md files
-test.mdnode_modules/
+# ignore .md files and node modules
+test.md
+node_modules/
